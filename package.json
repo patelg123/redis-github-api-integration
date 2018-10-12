@@ -1,0 +1,22 @@
+{
+  "name": "redis-github-api-integration",
+  "version": "1.0.0",
+  "description": "An express application that integrates with GitHub's public API and get the public repositories for users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelg123/redis-github-api-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelg123/redis-github-api-integration/issues"
+  },
+  "homepage": "https://github.com/patelg123/redis-github-api-integration#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
